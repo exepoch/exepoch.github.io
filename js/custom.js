@@ -2,7 +2,7 @@
 [Master Javascript]
 
 Project: Portfolio Responsive HTML Template
-Version: 1.0.6
+Version: 1.0.0
 Assigned to: ThemeForest
 -------------------------------------------------------------------*/
 (function($){
